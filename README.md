@@ -1,7 +1,5 @@
 ---
-description: >-
-  Akash means “open space” or “sky” in ancient Sanskrit. The sky is where the
-  clouds meet.
+description: Docs
 ---
 
 # Intro to Akash
@@ -33,7 +31,7 @@ The cost of hosting your application using Akash is about one-third the cost of 
 
 ### How do I use Akash?
 
-If you're new to Akash, start with our [**deployment guides**](guides/) and go from there. Akash's community has written several more advanced guides for learning about Akash: a [**node operator guide**](akash-nodes/), a [**validator guide**](validating/validator.md), a [**cloud provider guide**](broken-reference), and several [**deployment guides**](guides/) for running various apps on Akash.
+If you're new to Akash, start with our [**deployment guides**](guides/) and go from there. Akash's community has written several more advanced guides for learning about Akash: a [**node operator guide**](akash-nodes/), a [**validator guide**](validating/validator.md), a [**cloud provider guide**](broken-reference/), and several [**deployment guides**](guides/) for running various apps on Akash.
 
 ### Why is Akash different than other Cloud platforms?
 
